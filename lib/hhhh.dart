@@ -8,4 +8,13 @@
 ///gjkldjglkdjglkjgkldjgkgkjljgkdkl
 ///kgjglkjglkdjgkldjglkdj
 ///dklgjdlkfjgjglkg
+<<<<<<< HEAD
 ///dkfgjdkljgljdfg
+=======
+///dkfgjdkljgljdfg
+///
+///dfdfdfsdfs
+///dfddsfsdsdfsfsfsdf
+///dsffdfsfsdfsdfdsfdfsfsdf
+///sdfsdfdffdfdfddf
+>>>>>>> fisrt
