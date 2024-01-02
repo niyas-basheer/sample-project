@@ -1,6 +1,4 @@
 import 'dart:async';
-import 'package:amazon_prime_clone/api/api_calling/movie_service.dart';
-import 'package:amazon_prime_clone/api/api_config/api_config.dart';
 import 'package:amazon_prime_clone/api/api_data_fetch/api_fetch.dart';
 import 'package:amazon_prime_clone/models/movie_model.dart';
 import 'package:amazon_prime_clone/screens/main_page/screens/main_page.dart';
