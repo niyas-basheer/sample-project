@@ -42,7 +42,7 @@ class SearchedList extends StatelessWidget {
                               Padding(
                                 padding: const EdgeInsets.fromLTRB(30, 0, 0, 0),
                                 child: SizedBox(
-                                  width: 300,
+                                  width: 250,
                                   child: Text(data.movieName!)),
                               )
                             ],

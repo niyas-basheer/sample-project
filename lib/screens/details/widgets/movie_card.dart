@@ -13,7 +13,7 @@ class MovieCard extends StatelessWidget {
     return Row(
       children: [
         Padding(
-          padding: const EdgeInsets.all(20.0),
+          padding: const EdgeInsets.all(15.0),
           child: Container(
             decoration: BoxDecoration(
               image: DecorationImage(image: NetworkImage(poster),fit: BoxFit.fill),

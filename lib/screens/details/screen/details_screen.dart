@@ -16,12 +16,13 @@ class DetailsScreen extends StatelessWidget {
     return  Scaffold(
       appBar: const CustomAppBar(headText: 'Movie', goldColor: false, home: false,back: true,),
       body: SafeArea(
-        child: ListView(
-        children: [
-          MovieCard(poster: poster,name: name,rating: rating,),
-          MovieDescription(description: description)
-        ],
-      )),
-    );
+          child: ListView(
+          children: [
+            MovieCard(poster: poster,name: name,rating: rating,),
+            MovieDescription(description: description)
+          ],
+                ),
+        ));
+    
   }
 }

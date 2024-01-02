@@ -29,7 +29,7 @@ class NameAndRating extends StatelessWidget {
         const SizedBox(height: 20,),
         SizedBox(
           width: 200,
-          child: Text(name,textScaleFactor: 1,style: const TextStyle(fontFamily: 'Montserrat-Medium',fontSize: 20),))
+          child: Text(name,style: const TextStyle(fontFamily: 'Montserrat-Medium',fontSize: 20),))
       ],
     );
   }
