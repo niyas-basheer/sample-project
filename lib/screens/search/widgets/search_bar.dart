@@ -25,6 +25,7 @@ class SearchWidget extends StatelessWidget {
                   await refreshUi();
                   searchcont.clear();
                 }, icon: const Icon(Icons.close))),
+                style: const TextStyle(color: Colors.black),
       ),
     );
   }
