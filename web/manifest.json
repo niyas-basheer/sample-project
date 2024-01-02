@@ -1,6 +1,6 @@
 {
-    "name": "gitgit",
-    "short_name": "gitgit",
+    "name": "amazon_prime_clone",
+    "short_name": "amazon_prime_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
